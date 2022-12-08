@@ -1,1 +1,0 @@
-print(f'__file__ : {__file__}')
